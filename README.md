@@ -119,8 +119,10 @@ reconsidered rather than forced.
 
 Regenerated from our production catalogue whenever a batch of alterations lands
 — new translations, a fresh pass over the shopping departments, a data repair —
-and at least once per upstream dataset import. Every release is tagged
-with the date of the import it reflects. The files are produced by a script, not
+and at least once per upstream dataset import. Every release is tagged with the
+date of the import it reflects; a later revision of the same import adds a
+suffix, so `2026-01-21.1` is a second pass over the data imported on
+2026-01-21. The files are produced by a script, not
 by hand, so a diff between two releases is exactly what changed.
 
 Corrections and questions: open an issue, or write to the address on
