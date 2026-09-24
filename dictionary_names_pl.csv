@@ -1,0 +1,899 @@
+dictionary,key,name_en,name_pl
+food_labels,Alcohol,Alcohol,Z alkoholem
+food_labels,Caffeine,Caffeine,Z kofeiną
+food_labels,Canned,Canned,Z puszki
+food_labels,Cooked,Cooked,Gotowane
+food_labels,Drained,Drained,Odsączone
+food_labels,Dried,Dried,Suszone
+food_labels,Dry,Dry,Suche
+food_labels,Enriched,Enriched,Wzbogacone
+food_labels,Fresh,Fresh,Świeże
+food_labels,Frozen,Frozen,Mrożone
+food_labels,Raw,Raw,Surowe
+food_labels,Rinsed,Rinsed,Opłukane
+food_labels,Salted,Salted,Solone
+food_labels,Sweetened,Sweetened,Słodzone
+food_labels,Unsalted,Unsalted,Bez soli
+food_labels,Unsweetened,Unsweetened,Bez cukru
+measure_units,1/3_pretzel,1/3 pretzel,1/3 precla
+measure_units,1/6_bar,1/6 bar,1/6 tabliczki
+measure_units,6-piece,6-piece,porcja 6 sztuk
+measure_units,a,a,sztuka
+measure_units,abr,abr,baton
+measure_units,affogato,affogato,affogato
+measure_units,almond,almond,migdał
+measure_units,almondmilk,almondmilk,napój migdałowy
+measure_units,anchovies,anchovies,sardela
+measure_units,anchovy_fillet,anchovy fillet,filet z anchois
+measure_units,appetizer,appetizer,przekąska
+measure_units,apple,apple,jabłko
+measure_units,apricot,apricot,morela
+measure_units,apricots,apricots,morela
+measure_units,arepa,arepa,arepa
+measure_units,assorted,assorted,praliny asortowane
+measure_units,attayef,attayef,atajef
+measure_units,average,average,średnia sztuka
+measure_units,avocado,avocado,awokado
+measure_units,bacon_biscuit,bacon biscuit,bułka z bekonem
+measure_units,bag,bag,torba
+measure_units,bag_unpopped,bag unpopped,torebka nieprażonego
+measure_units,bagel,bagel,bajgiel
+measure_units,baguette,baguette,bagietka
+measure_units,baked,baked,upieczona sztuka
+measure_units,baleada,baleada,baleada
+measure_units,ball,ball,kulka
+measure_units,bammy,bammy,bammy
+measure_units,banana,banana,banan
+measure_units,banana_split,banana split,banana split
+measure_units,bar,bar,baton
+measure_units,bars,bars,batonik
+measure_units,basket,basket,koszyk
+measure_units,bean,bean,laska
+measure_units,bear,bear,niedźwiedzia łapa
+measure_units,beefsteak_tomato,beefsteak tomato,pomidor bawole serce
+measure_units,beet,beet,burak
+measure_units,beignet,beignet,beignet
+measure_units,berrie,berrie,jagoda
+measure_units,berries,berries,jagody
+measure_units,berry,berry,jagoda
+measure_units,biscotti,biscotti,biscotti
+measure_units,biscuit,biscuit,herbatnik
+measure_units,biscuit_half,biscuit half,połówka bułeczki
+measure_units,biscuit_sandwich,biscuit sandwich,kanapka na biszkopcie
+measure_units,biscuit_sandwiches,biscuit sandwiches,kanapka na bułce
+measure_units,biscuit_with_gravy,biscuit with gravy,bułka z sosem
+measure_units,biscuits,biscuits,herbatnik
+measure_units,bite,bite,kęs
+measure_units,blintz,blintz,blintz
+measure_units,blintze,blintze,blintz
+measure_units,block,block,kostka
+measure_units,blocks,blocks,kostka
+measure_units,blossom,blossom,kwiat
+measure_units,board,board,deska
+measure_units,bolani,bolani,bolani
+measure_units,bomb,bomb,kula
+measure_units,bottle,bottle,butelka
+measure_units,bottles,bottles,butelka
+measure_units,boule,boule,bochenek
+measure_units,bowl,bowl,miska
+measure_units,box,box,pudełko
+measure_units,bread,bread,chleb
+measure_units,breadstick,breadstick,paluszek chlebowy
+measure_units,breast,breast,pierś
+measure_units,brioche,brioche,brioszka
+measure_units,briouat,briouat,briouat
+measure_units,broiled,broiled,kiełbaska
+measure_units,brownie,brownie,brownie
+measure_units,brownie_pan,brownie pan,forma brownie
+measure_units,brownies,brownies,brownie
+measure_units,brussel,brussel,brukselka
+measure_units,bucket,bucket,wiaderko
+measure_units,bun,bun,bułeczka
+measure_units,bundle,bundle,pęczek
+measure_units,bundt,bundt,babka
+measure_units,bunnie,bunnie,zajączek
+measure_units,bunny,bunny,zajączek
+measure_units,bunny_chow,bunny chow,bunny chow
+measure_units,burger,burger,burger
+measure_units,burrito,burrito,burrito
+measure_units,cachapa,cachapa,cachapa
+measure_units,cake,cake,wafel
+measure_units,cake_cup,cake cup,wafelek
+measure_units,cakes,cakes,wafle
+measure_units,calzone,calzone,calzone
+measure_units,can,can,puszka
+measure_units,can_drained,can drained,puszka odsączona
+measure_units,candie,candie,cukierek
+measure_units,candy,candy,cukierek
+measure_units,cane,cane,laska
+measure_units,cannoli,cannoli,cannoli
+measure_units,cap,cap,nakrętka
+measure_units,carrot,carrot,marchewka
+measure_units,carton,carton,karton
+measure_units,casserole,casserole,zapiekanka
+measure_units,cat,cat,kotek
+measure_units,chalupa,chalupa,chalupa
+measure_units,chapati,chapati,chapati
+measure_units,cheese,cheese,ser
+measure_units,cheesecake,cheesecake,sernik
+measure_units,cherries,cherries,czereśnia
+measure_units,cherry,cherry,wiśnia
+measure_units,chick,chick,kurczaczek
+measure_units,chicken,chicken,kurczak
+measure_units,chicken_breast,chicken breast,pierś z kurczaka
+measure_units,chicken_leg,chicken leg,udko z kurczaka
+measure_units,chicks,chicks,kurczaczek
+measure_units,chile,chile,papryczka chili
+measure_units,chile_relleno,chile relleno,chile relleno
+measure_units,chili_peppers,chili peppers,papryczka chili
+measure_units,chimichanga,chimichanga,chimichanga
+measure_units,chip,chip,chips
+measure_units,chips,chips,chipsy
+measure_units,chocolate,chocolate,czekoladka
+measure_units,chop,chop,kotlet
+measure_units,chorreada,chorreada,chorreada
+measure_units,churro,churro,churro
+measure_units,churros,churros,churro
+measure_units,cigar,cigar,cygaro
+measure_units,cinnamon,cinnamon,bułeczka cynamonowa
+measure_units,clam,clam,małż
+measure_units,clay_pot,clay pot,gliniany garnek
+measure_units,clove,clove,ząbek
+measure_units,cluster,cluster,kluska
+measure_units,cobbler,cobbler,kruszonka
+measure_units,cocktail,cocktail,koktajl
+measure_units,conatiner,conatiner,pojemnik
+measure_units,concha,concha,concha
+measure_units,cone,cone,rożek
+measure_units,container,container,pojemnik
+measure_units,cooked,cooked,porcja ugotowana
+measure_units,cooked_patties,cooked patties,usmażony kotlecik
+measure_units,cooked_slices,cooked slices,usmażony plaster
+measure_units,cookie,cookie,ciastko
+measure_units,cookies,cookies,ciastko
+measure_units,corn,corn,kolba
+measure_units,corn_dog,corn dog,corn dog
+measure_units,cornbread,cornbread,chleb kukurydziany
+measure_units,count,count,sztuka
+measure_units,covrig,covrig,obwarzanek
+measure_units,crab,crab,krokiet krabowy
+measure_units,cracker,cracker,krakers
+measure_units,crackers,crackers,krakers
+measure_units,cream,cream,ptyś
+measure_units,cream_puff,cream puff,ptyś
+measure_units,creamer,creamer,śmietanka
+measure_units,crepe,crepe,naleśnik
+measure_units,crepes,crepes,naleśnik
+measure_units,crescent,crescent,rogalik
+measure_units,crisp,crisp,chipsy
+measure_units,crispbread,crispbread,pieczywo chrupkie
+measure_units,crisps,crisps,chipsy
+measure_units,crock,crock,kokilka
+measure_units,croissant,croissant,rogalik
+measure_units,croquette,croquette,krokiet
+measure_units,crostata,crostata,crostata
+measure_units,crouton,crouton,grzanka
+measure_units,crpe,crpe,naleśnik
+measure_units,crumble,crumble,kruszonka
+measure_units,crust,crust,spód
+measure_units,ct,ct,sztuka
+measure_units,cube,cube,kostka
+measure_units,cucumber,cucumber,ogórek
+measure_units,cup,cup,szklanka
+measure_units,cup_cereal,cup cereal,szklanka płatków
+measure_units,cup_chopped,cup chopped,szklanka posiekanych
+measure_units,cup_diced,cup diced,szklanka w kostkach
+measure_units,cup_dry,cup dry,szklanka suchego produktu
+measure_units,cup_mix,cup mix,szklanka mieszanki
+measure_units,"cup_salad,_dressing","cup salad, dressing",szklanka sałatki z dressingiem
+measure_units,cup_with_shells,cup with shells,szklanka w łupinach
+measure_units,cupcake,cupcake,babeczka
+measure_units,cupcakes,cupcakes,babeczka
+measure_units,cupfection,cupfection,kubeczek
+measure_units,cups,cups,szklanka
+measure_units,cups_popped,cups popped,szklanka prażonego popcornu
+measure_units,curl,curl,chrupka
+measure_units,cutlet,cutlet,kotlet
+measure_units,danish,danish,drożdżówka
+measure_units,danishe,danishe,drożdżówka
+measure_units,date,date,daktyl
+measure_units,decorated,decorated,ozdobione ciastko
+measure_units,decoration,decoration,dekoracja
+measure_units,demitasse_cup,demitasse cup,filiżanka
+measure_units,dessert,dessert,deser
+measure_units,dessert_dish,dessert dish,pucharek deserowy
+measure_units,dinner,dinner,obiad
+measure_units,dish,dish,pucharek
+measure_units,dog,dog,hot dog
+measure_units,dollop,dollop,kleks
+measure_units,dolma,dolma,dolma
+measure_units,dolmade,dolmade,dolma
+measure_units,donut,donut,pączek
+measure_units,donuts,donuts,pączek
+measure_units,dot,dot,cukierek
+measure_units,dough,dough,ciasto
+measure_units,doughnut,doughnut,pączek
+measure_units,drained,drained,po odsączeniu
+measure_units,drink,drink,napój
+measure_units,drop,drop,kropla
+measure_units,drops,drops,krople
+measure_units,drumstick,drumstick,podudzie
+measure_units,dry,dry,porcja sucha
+measure_units,dumpling,dumpling,pieróg
+measure_units,dunker,dunker,pączek
+measure_units,each,each,sztuka
+measure_units,ear,ear,kolba
+measure_units,eclair,eclair,eklerka
+measure_units,edible,edible,część jadalna
+measure_units,egg,egg,jajko
+measure_units,egg_roll,egg roll,sajgonka
+measure_units,egg_rolls,egg rolls,sajgonka
+measure_units,eggplant,eggplant,bakłażan
+measure_units,empanada,empanada,empanada
+measure_units,empanadilla,empanadilla,empanadilla
+measure_units,enchilada,enchilada,enchilada
+measure_units,enchilada_plate,enchilada plate,porcja enchilady
+measure_units,english,english,muffinka angielska
+measure_units,entre,entre,danie główne
+measure_units,entree,entree,danie główne
+measure_units,envelope,envelope,saszetka
+measure_units,escargot,escargot,ślimak
+measure_units,falafel,falafel,falafel
+measure_units,fat,fat,kulka
+measure_units,fatayer,fatayer,fatayer
+measure_units,festival,festival,placek
+measure_units,fi,fi,uncja płynu
+measure_units,fifth_pizza,fifth pizza,jedna piąta pizzy
+measure_units,fig,fig,figa
+measure_units,figs,figs,figa
+measure_units,filet,filet,filet
+measure_units,filled,filled,nadziewana bułeczka
+measure_units,fillet,fillet,filet
+measure_units,fillets,fillets,filet
+measure_units,finger,finger,paluszek
+measure_units,fingers,fingers,paluszek
+measure_units,finjan,finjan,filiżanka
+measure_units,fish,fish,ryba
+measure_units,fl_oz,fl oz,uncja płynu
+measure_units,flat,flat,krakers
+measure_units,flatbread,flatbread,podpłomyk
+measure_units,flauta,flauta,flauta
+measure_units,float,float,float
+measure_units,floret,floret,różyczka
+measure_units,floz,floz,uncja płynu
+measure_units,fluid,fluid,uncja płynu
+measure_units,frank,frank,parówka
+measure_units,french,french,tost francuski
+measure_units,frie,frie,frytka
+measure_units,fried,fried,plaster smażony
+measure_units,fried_slices,fried slices,smażony plaster
+measure_units,fries,fries,frytka
+measure_units,frittata,frittata,frittata
+measure_units,fritter,fritter,placek
+measure_units,fritule,fritule,fritula
+measure_units,fruit,fruit,owoc
+measure_units,fruit_strip,fruit strip,pasek owocowy
+measure_units,frusta,frusta,frusta
+measure_units,fry,fry,frytka
+measure_units,full,full,całość
+measure_units,full_rack,full rack,cały płat
+measure_units,fun,fun,kubeczek
+measure_units,g,g,g
+measure_units,gal,gal,galon
+measure_units,galette,galette,galette
+measure_units,gallon,gallon,galon
+measure_units,gar._naan,gar. naan,naan czosnkowy
+measure_units,garnacha,garnacha,garnacha
+measure_units,gel,gel,galaretka
+measure_units,gherkin,gherkin,korniszon
+measure_units,ghost,ghost,duszek
+measure_units,glass,glass,szklanka
+measure_units,glazed,glazed,kawałek
+measure_units,go,go,porcja
+measure_units,gordita,gordita,gordita
+measure_units,graham,graham,krakers grahamowy
+measure_units,gram,gram,g
+measure_units,grilled,grilled,kiełbaska grillowana
+measure_units,grind,grind,obrót młynka
+measure_units,grm,grm,g
+measure_units,gummie,gummie,żelka
+measure_units,gyro,gyro,gyros
+measure_units,half,half,połówka
+measure_units,half-chicken,half-chicken,pół kurczaka
+measure_units,half-pint,half-pint,pół pinty
+measure_units,half_avocado,half avocado,połowa awokado
+measure_units,half_chicken,half chicken,pół kurczaka
+measure_units,half_egg,half egg,połówka jajka
+measure_units,half_grapefruit,half grapefruit,połowa grejpfruta
+measure_units,half_loaf,half loaf,pół bochenka
+measure_units,half_pizza,half pizza,pół pizzy
+measure_units,half_rack,half rack,pół płata
+measure_units,half_slab,half slab,pół płata
+measure_units,half_squash,half squash,połowa dyni
+measure_units,halve,halve,połówka
+measure_units,hand_roll,hand roll,temaki
+measure_units,hash_brown,hash brown,placek ziemniaczany
+measure_units,hat,hat,chleb
+measure_units,heaping,heaping,kopiasta łyżka
+measure_units,heaping_scoop,heaping scoop,czubata miarka
+measure_units,heart,heart,serce
+measure_units,hen,hen,kurczak
+measure_units,hoagie,hoagie,kanapka hoagie
+measure_units,hole,hole,kulka
+measure_units,honey,honey,bułeczka miodowa
+measure_units,hot,hot,hot dog
+measure_units,hot_dog,hot dog,hot dog
+measure_units,hummu,hummu,hummus
+measure_units,hunk,hunk,kawałek
+measure_units,hushpuppie,hushpuppie,kulka kukurydziana
+measure_units,hushpuppy,hushpuppy,kulka kukurydziana
+measure_units,ice,ice,lód
+measure_units,in,in,cal
+measure_units,inch,inch,cal
+measure_units,infuser,infuser,zaparzacz
+measure_units,inner,inner,opakowanie wewnętrzne
+measure_units,item,item,sztuka
+measure_units,iu,iu,iU
+measure_units,jalapeños,jalapeños,jalapeño
+measure_units,jar,jar,słoik
+measure_units,johnny_cake,johnny cake,placek
+measure_units,juice,juice,sok
+measure_units,jumbo_egg,jumbo egg,jajko jumbo
+measure_units,junior,junior,ciastko
+measure_units,k,k,kapsułka
+measure_units,kabob,kabob,szaszłyk
+measure_units,kebab,kebab,kebab
+measure_units,kernel,kernel,orzech
+measure_units,kg,kg,kg
+measure_units,kibbeh_ball,kibbeh ball,kulka kibbeh
+measure_units,kibe,kibe,kibe
+measure_units,kid's_dessert,kid's dessert,deser dziecięcy
+measure_units,kid's_meal,kid's meal,zestaw dla dzieci
+measure_units,kids_bowl,kids bowl,miska dla dzieci
+measure_units,kids_entree,kids entree,danie dla dzieci
+measure_units,kids_meal,kids meal,zestaw dla dzieci
+measure_units,kit,kit,zestaw
+measure_units,kiwi,kiwi,kiwi
+measure_units,knish,knish,knysza
+measure_units,knot,knot,supełek
+measure_units,knuckle,knuckle,golonka
+measure_units,kolache,kolache,kolacz
+measure_units,kold,kold,sztuka
+measure_units,kookie,kookie,ciastko
+measure_units,krabby,krabby,kotlecik
+measure_units,kubba,kubba,kubba
+measure_units,l,l,l
+measure_units,ladle,ladle,chochla
+measure_units,large,large,duża sztuka
+measure_units,large_egg,large egg,duże jajko
+measure_units,large_egg_white,large egg white,duże białko jaja
+measure_units,large_egg_yolk,large egg yolk,duże żółtko
+measure_units,large_eggs,large eggs,duże jajko
+measure_units,large_fry,large fry,duża porcja frytek
+measure_units,large_marshmallows,large marshmallows,duża pianka marshmallow
+measure_units,larger_cup,larger cup,większy kubek
+measure_units,lasagna,lasagna,lasagna
+measure_units,latke,latke,placek ziemniaczany
+measure_units,lavash,lavash,lawasz
+measure_units,lb,lb,funt
+measure_units,lbs,lbs,funt
+measure_units,leaf,leaf,liść
+measure_units,leave,leave,liść
+measure_units,leaves,leaves,liść
+measure_units,leg,leg,noga
+measure_units,lemon,lemon,cytryna
+measure_units,lettuce_wrap,lettuce wrap,zawijaniec z sałaty
+measure_units,level,level,poziom
+measure_units,leveled,leveled,płaska miarka
+measure_units,lime,lime,limonka
+measure_units,link,link,kiełbaska
+measure_units,links,links,kiełbaska
+measure_units,little,little,kotlecik
+measure_units,littles,littles,mała sztuka
+measure_units,loaded_order,loaded order,porcja z dodatkami
+measure_units,loaf,loaf,bochenek
+measure_units,log,log,baton
+measure_units,lollipop,lollipop,lizak
+measure_units,m,m,ml
+measure_units,macaron,macaron,makaronik
+measure_units,macarons,macarons,makaronik
+measure_units,macaroon,macaroon,makaronik
+measure_units,madeleine,madeleine,magdalenka
+measure_units,mallows,mallows,pianka
+measure_units,malt,malt,koktajl mleczny
+measure_units,manakish,manakish,manakisz
+measure_units,marranito,marranito,marranito
+measure_units,marshmallow,marshmallow,pianka marshmallow
+measure_units,martini,martini,martini
+measure_units,mate,mate,torebka
+measure_units,matzo,matzo,maca
+measure_units,meal,meal,posiłek
+measure_units,meat,meat,klopsik
+measure_units,meatball,meatball,klopsik
+measure_units,med,med,średnia
+measure_units,medium,medium,średnia sztuka
+measure_units,medium_apricot,medium apricot,średnia morela
+measure_units,medium_beet,medium beet,średni burak
+measure_units,medium_blood_orange,medium blood orange,średnia czerwona pomarańcza
+measure_units,medium_egg,medium egg,średnie jajko
+measure_units,medium_fig,medium fig,średnia figa
+measure_units,medium_fruit,medium fruit,średni owoc
+measure_units,medium_fry,medium fry,średnia porcja frytek
+measure_units,medium_nectarine,medium nectarine,średnia nektarynka
+measure_units,medium_orange,medium orange,średnia pomarańcza
+measure_units,medium_pickle,medium pickle,średni ogórek konserwowy
+measure_units,medium_plantain,medium plantain,średni plantan
+measure_units,medium_stalks,medium stalks,średnia łodyga
+measure_units,medium_tuber,medium tuber,średnia bulwa
+measure_units,melt,melt,zapiekana kanapka
+measure_units,meringue,meringue,beza
+measure_units,mg,mg,mg
+measure_units,milk,milk,mleko
+measure_units,milkshake,milkshake,koktajl mleczny
+measure_units,mini,mini,mini sztuka
+measure_units,mini-burrito,mini-burrito,mini burrito
+measure_units,mini-burritos,mini-burritos,mini burrito
+measure_units,mini_cake,mini cake,mini ciastko
+measure_units,mini_cheese_coney,mini cheese coney,mini hot dog z serem
+measure_units,mini_cup,mini cup,mini kubeczek
+measure_units,minicup,minicup,mini kubeczek
+measure_units,mint,mint,miętówka
+measure_units,mix,mix,mieszanka
+measure_units,ml,ml,ml
+measure_units,mlt,mlt,ml
+measure_units,mochi,mochi,mochi
+measure_units,mooncake,mooncake,ciastko księżycowe
+measure_units,msemen,msemen,msemen
+measure_units,muffin,muffin,muffinka
+measure_units,mushroom,mushroom,pieczarka
+measure_units,mushroom_cap,mushroom cap,kapelusz grzyba
+measure_units,naan,naan,naan
+measure_units,naanwich,naanwich,naanwich
+measure_units,nacatamal,nacatamal,nacatamal
+measure_units,nest,nest,gniazdko
+measure_units,nibbler,nibbler,kąsek
+measure_units,nugget,nugget,kęs
+measure_units,nut,nut,orzech
+measure_units,nuts,nuts,orzech
+measure_units,o,o,uncja
+measure_units,oat,oat,kęs owsiany
+measure_units,of,of,sztuka
+measure_units,olive,olive,oliwka
+measure_units,olives,olives,oliwki
+measure_units,omelet,omelet,omlet
+measure_units,omelette,omelette,omlet
+measure_units,onion,onion,cebula
+measure_units,onz,onz,uncja
+measure_units,onza,onza,uncja
+measure_units,or,or,sztuka
+measure_units,order,order,porcja
+measure_units,oval,oval,krążek
+measure_units,oyster,oyster,ostryga
+measure_units,oysters,oysters,ostryga
+measure_units,oz,oz,uncja
+measure_units,oza,oza,uncja
+measure_units,pack,pack,paczka
+measure_units,package,package,opakowanie
+measure_units,package_mix,package mix,opakowanie mieszanki
+measure_units,packed,packed,ubita miarka
+measure_units,packege,packege,opakowanie
+measure_units,packet,packet,torebka
+measure_units,paczka,paczka,pączek
+measure_units,pak,pak,paczka
+measure_units,palmier,palmier,palmier
+measure_units,pan,pan,patelnia
+measure_units,pan-fried_slices,pan-fried slices,plaster smażony na patelni
+measure_units,pancake,pancake,placek
+measure_units,panini,panini,panini
+measure_units,pannenkoek,pannenkoek,naleśnik
+measure_units,papad,papad,papad
+measure_units,papanasi,papanasi,papanasi
+measure_units,paratha,paratha,paratha
+measure_units,parfait,parfait,parfait
+measure_units,pastel,pastel,pastel
+measure_units,pastelito,pastelito,pastelito
+measure_units,pastrie,pastrie,ciastko
+measure_units,pastries,pastries,ciastko
+measure_units,pastry,pastry,ciastko
+measure_units,pasty,pasty,pasztecik
+measure_units,pattie,pattie,kotlet
+measure_units,patties,patties,kotlecik
+measure_units,patty,patty,kotlet
+measure_units,pc,pc,sztuka
+measure_units,pcs,pcs,sztuka
+measure_units,peanut,peanut,orzeszek
+measure_units,peel,peel,skórka
+measure_units,peice,peice,sztuka
+measure_units,pepper,pepper,papryczka
+measure_units,phyllo,phyllo,chrupka
+measure_units,pick,pick,patyczek
+measure_units,pickle,pickle,ogórek kiszony
+measure_units,pickle_spear,pickle spear,ćwiartka ogórka kiszonego
+measure_units,pickles,pickles,ogórek konserwowy
+measure_units,pide,pide,pide
+measure_units,pie,pie,placek
+measure_units,piece,piece,sztuka
+measure_units,pieces,pieces,sztuka
+measure_units,pieces_drained,pieces drained,kawałek odsączony
+measure_units,pierogi,pierogi,pieróg
+measure_units,pierogie,pierogie,pieróg
+measure_units,pigeon,pigeon,gołąb
+measure_units,pin,pin,sztuka
+measure_units,pinch,pinch,szczypta
+measure_units,pint,pint,pinta
+measure_units,pintxo,pintxo,pintxo
+measure_units,pinwheel,pinwheel,roladka
+measure_units,pionono,pionono,pionono
+measure_units,pirozhok,pirozhok,pierożek
+measure_units,pita,pita,pita
+measure_units,pizza,pizza,pizza
+measure_units,pkg,pkg,opakowanie
+measure_units,plantain,plantain,plantan
+measure_units,plate,plate,talerz
+measure_units,platter,platter,półmisek
+measure_units,plece,plece,sztuka
+measure_units,plum,plum,śliwka
+measure_units,plums,plums,śliwka
+measure_units,pocket,pocket,kieszonka
+measure_units,pod,pod,strąk
+measure_units,pods,pods,strąk
+measure_units,pogácsa,pogácsa,pogácsa
+measure_units,pop,pop,lód na patyku
+measure_units,poper,poper,papryczka
+measure_units,popper,popper,papryczka faszerowana
+measure_units,popsicle,popsicle,lód na patyku
+measure_units,portion,portion,porcja
+measure_units,pot,pot,pierożek
+measure_units,pot_pie,pot pie,potrawka w cieście
+measure_units,potato,potato,ziemniak
+measure_units,potatoe,potatoe,ziemniak
+measure_units,potsticker,potsticker,pierożek potsticker
+measure_units,potstickers,potstickers,pierożek
+measure_units,pouch,pouch,saszetka
+measure_units,pouche,pouche,saszetka
+measure_units,pretzel,pretzel,precel
+measure_units,pretzel_bite,pretzel bite,kęs precla
+measure_units,pretzel_dog,pretzel dog,precel z kiełbaską
+measure_units,pretzels,pretzels,precelek
+measure_units,profiterole,profiterole,ptyś
+measure_units,prune,prune,suszona śliwka
+measure_units,prunes,prunes,suszona śliwka
+measure_units,pt,pt,pinta
+measure_units,pudding,pudding,pudding
+measure_units,pudding_cup,pudding cup,kubeczek puddingu
+measure_units,puff,puff,chrupka
+measure_units,pump,pump,psiknięcie
+measure_units,pumpkin,pumpkin,dynia
+measure_units,puppies,puppies,kulka
+measure_units,pupusa,pupusa,pupusa
+measure_units,push,push,lód w tubce
+measure_units,pyrizhok,pyrizhok,pierożek
+measure_units,qt,qt,kwarta
+measure_units,quart,quart,kwarta
+measure_units,quarter,quarter,ćwiartka
+measure_units,quarter_chicken,quarter chicken,ćwiartka kurczaka
+measure_units,quarter_loaf,quarter loaf,ćwiartka bochenka
+measure_units,quesadilla,quesadilla,quesadilla
+measure_units,quesillo,quesillo,quesillo
+measure_units,quesito,quesito,quesito
+measure_units,quiche,quiche,quiche
+measure_units,rabbit,rabbit,zajączek
+measure_units,rack,rack,żeberka
+measure_units,rackers,rackers,krakers
+measure_units,ramekin,ramekin,kokilka
+measure_units,ravioli,ravioli,ravioli
+measure_units,raw,raw,surowa sztuka
+measure_units,relleno,relleno,relleno
+measure_units,rib,rib,żeberko
+measure_units,rice,rice,ryż
+measure_units,ring,ring,krążek
+measure_units,rings,rings,krążek
+measure_units,risole,risole,risole
+measure_units,roast,roast,pieczeń
+measure_units,rod,rod,paluch
+measure_units,roll,roll,bułka
+measure_units,roll_w/sauce,roll w/sauce,gołąbek z sosem
+measure_units,roller,roller,rolka
+measure_units,rolls,rolls,sajgonka
+measure_units,rope,rope,sznurek
+measure_units,ropes,ropes,sznurek
+measure_units,roti,roti,roti
+measure_units,rounded,rounded,łyżka czubata
+measure_units,rusk,rusk,sucharek
+measure_units,sachet,sachet,saszetka
+measure_units,salad,salad,sałatka
+measure_units,salisbury,salisbury,stek Salisbury
+measure_units,samboosa,samboosa,samboosa
+measure_units,sambousak,sambousak,sambousak
+measure_units,sambousek,sambousek,sambousek
+measure_units,samoosa,samoosa,samosa
+measure_units,samosa,samosa,samosa
+measure_units,sandwhich,sandwhich,kanapka
+measure_units,sandwich,sandwich,kanapka
+measure_units,sandwich_biscuit,sandwich biscuit,ciastko przekładane
+measure_units,sandwiche,sandwiche,kanapka
+measure_units,sardine,sardine,sardynka
+measure_units,sausage,sausage,kiełbaska
+measure_units,sausage_biscuit,sausage biscuit,bułka z kiełbasą
+measure_units,sausages,sausages,parówka
+measure_units,scallop,scallop,przegrzebek
+measure_units,scone,scone,scone
+measure_units,scoop,scoop,miarka
+measure_units,scoopful,scoopful,miarka
+measure_units,scoops,scoops,miarka
+measure_units,scotch_egg,scotch egg,jajko po szkocku
+measure_units,sec,sec,sekunda
+measure_units,second,second,sekunda
+measure_units,second_spray,second spray,sekunda psikania
+measure_units,section,section,kostka
+measure_units,segment,segment,kostka
+measure_units,semmel,semmel,bułka
+measure_units,serv,serv,porcja
+measure_units,serving,serving,porcja
+measure_units,serving_(1/16_package),serving (1/16 package),porcja (1/16 opakowania)
+measure_units,serving_(1/8_package),serving (1/8 package),porcja (1/8 opakowania)
+measure_units,servings,servings,porcja
+measure_units,set,set,zestaw
+measure_units,sets_of_4_waffles,sets of 4 waffles,zestaw 4 gofrów
+measure_units,shake,shake,koktajl
+measure_units,shareable,shareable,porcja do dzielenia
+measure_units,shareable_dish,shareable dish,porcja do dzielenia
+measure_units,sheet,sheet,arkusz
+measure_units,sheets,sheets,płat
+measure_units,shell,shell,muszla
+measure_units,shelled,shelled,łuskany orzech
+measure_units,shells,shells,tortille
+measure_units,shot,shot,kieliszek
+measure_units,shots,shots,porcja espresso
+measure_units,shrimp,shrimp,krewetka
+measure_units,side,side,porcja
+measure_units,side_salad,side salad,mała sałatka
+measure_units,single,single,sztuka
+measure_units,sirloin,sirloin,polędwica
+measure_units,skewer,skewer,szaszłyk
+measure_units,skillet,skillet,patelnia
+measure_units,slice,slice,kawałek
+measure_units,slices,slices,kromka
+measure_units,slider,slider,mini burger
+measure_units,sliders,sliders,mini burger
+measure_units,slush,slush,slush
+measure_units,small,small,mała
+measure_units,small_fry,small fry,mała porcja frytek
+measure_units,small_olives,small olives,mała oliwka
+measure_units,small_serving,small serving,mała porcja
+measure_units,smoothie,smoothie,smoothie
+measure_units,snack,snack,przekąska
+measure_units,snap,snap,krakers
+measure_units,snow_cone,snow cone,lód z syropem
+measure_units,snowman,snowman,bałwanek
+measure_units,soft,soft,ciastko
+measure_units,sopapilla,sopapilla,sopapilla
+measure_units,sope,sope,sope
+measure_units,souffle,souffle,suflet
+measure_units,soup,soup,zupa
+measure_units,soymilk,soymilk,napój sojowy
+measure_units,spear,spear,łodyga
+measure_units,spears,spears,szparagi
+measure_units,spoon,spoon,łyżka
+measure_units,spoonful,spoonful,łyżka
+measure_units,spray,spray,spryskanie
+measure_units,spring,spring,sajgonka
+measure_units,sprout,sprout,brukselka
+measure_units,square,square,kawałek
+measure_units,squares,squares,kostka
+measure_units,squeeze,squeeze,porcja wyciśnięta
+measure_units,squeezup,squeezup,tubka
+measure_units,squid,squid,kalmar
+measure_units,stack,stack,stos
+measure_units,stalk,stalk,łodyga
+measure_units,steak,steak,stek
+measure_units,stick,stick,słupek
+measure_units,stickpack,stickpack,saszetka
+measure_units,sticks,sticks,paluszki
+measure_units,stix,stix,paluszek
+measure_units,stovetop,stovetop,porcja
+measure_units,straw,straw,słomka
+measure_units,string,string,serek nitka
+measure_units,strip,strip,paseczek
+measure_units,strips,strips,paski
+measure_units,stromboli,stromboli,stromboli
+measure_units,strudel,strudel,strudel
+measure_units,stuffed,stuffed,kanapka faszerowana
+measure_units,stuffed_crab,stuffed crab,faszerowany krab
+measure_units,stuffed_grape_leaf,stuffed grape leaf,nadziewany liść winogronowy
+measure_units,stuffed_quahog,stuffed quahog,nadziewany małż
+measure_units,sub,sub,bagietka
+measure_units,sundae,sundae,deser lodowy
+measure_units,sweet,sweet,drożdżówka
+measure_units,tablet,tablet,tabletka
+measure_units,taco,taco,taco
+measure_units,taco_shells,taco shells,muszla taco
+measure_units,tacos,tacos,taco
+measure_units,tamal,tamal,tamal
+measure_units,tamale,tamale,tamal
+measure_units,taquito,taquito,taquito
+measure_units,taquitos,taquitos,taquito
+measure_units,tart,tart,tartaletka
+measure_units,tartlet,tartlet,tartaletka
+measure_units,tartufo,tartufo,tartufo
+measure_units,tb,tb,łyżka
+measure_units,tbap,tbap,łyżka
+measure_units,tbl,tbl,łyżka
+measure_units,tbsp,tbsp,łyżka
+measure_units,tea,tea,herbata
+measure_units,tea_bag,tea bag,torebka herbaty
+measure_units,teabag,teabag,torebka herbaty
+measure_units,tender,tender,paluszek
+measure_units,tequeño,tequeño,tequeño
+measure_units,th,th,plaster
+measure_units,thigh,thigh,udko
+measure_units,thin,thin,ciastko
+measure_units,thins,thins,cienkie ciastko
+measure_units,timbit,timbit,timbit
+measure_units,tiramisu,tiramisu,tiramisu
+measure_units,to,to,sztuka
+measure_units,toast,toast,tost
+measure_units,toaster,toaster,ciastko do tostera
+measure_units,tomato,tomato,pomidor
+measure_units,tomatoe,tomatoe,pomidor
+measure_units,torte,torte,tort
+measure_units,tortilla,tortilla,tortilla
+measure_units,tortilla_&_filling,tortilla & filling,tortilla z nadzieniem
+measure_units,tortillas,tortillas,tortilla
+measure_units,tostada,tostada,tostada
+measure_units,tostadas,tostadas,tostada
+measure_units,tots,tots,krokiecik
+measure_units,tray,tray,tacka
+measure_units,trdelník,trdelník,trdelník
+measure_units,treat,treat,ciastko
+measure_units,tree,tree,choinka
+measure_units,triangle,triangle,trójkącik
+measure_units,truffle,truffle,trufla
+measure_units,tsp,tsp,łyżeczka
+measure_units,tsps,tsps,łyżeczka
+measure_units,tub,tub,kubek
+measure_units,tube,tube,tubka
+measure_units,tubes,tubes,tubka
+measure_units,turnover,turnover,ciastko francuskie
+measure_units,twist,twist,skręcony paluch
+measure_units,twists,twists,skręcane paluchy
+measure_units,uncooked,uncooked,surowy kotlecik
+measure_units,unit,unit,sztuka
+measure_units,wafel,wafel,wafelek
+measure_units,wafer,wafer,wafelek
+measure_units,wafers,wafers,wafelki
+measure_units,waffle,waffle,gofr
+measure_units,wedge,wedge,kawałek
+measure_units,whole,whole,cały
+measure_units,whole_fish,whole fish,cała ryba
+measure_units,whoopie,whoopie,ciastko whoopie
+measure_units,whoopie_pie,whoopie pie,ciastko przekładane
+measure_units,wiener,wiener,parówka
+measure_units,wing,wing,skrzydełko
+measure_units,wings,wings,skrzydełko
+measure_units,wonton,wonton,wonton
+measure_units,wrap,wrap,zawijaniec
+measure_units,wrapper,wrapper,płat ciasta
+measure_units,wrappers,wrappers,płat
+measure_units,z,z,uncja
+nutrients,added_sugars,Added Sugars,Cukry dodane
+nutrients,alanine,Alanine,Alanina
+nutrients,alpha_linolenic_acid,Alpha Linolenic Acid,Kwas alfa-linolenowy
+nutrients,arachidonic_acid,Arachidonic Acid,Kwas arachidonowy
+nutrients,arginine,Arginine,Arginina
+nutrients,aspartic_acid,Aspartic Acid,Kwas asparaginowy
+nutrients,biotin,Biotin,Biotyna
+nutrients,caffeine,Caffeine,Kofeina
+nutrients,calcium,Calcium,Wapń
+nutrients,calories,Calories,Kalorie
+nutrients,capric_acid,Capric Acid,Kwas kaprynowy
+nutrients,caprylic_acid,Caprylic Acid,Kwas kaprylowy
+nutrients,carbohydrates,Carbohydrates,Węglowodany
+nutrients,chlorine,Chlorine,Chlor
+nutrients,cholesterol,Cholesterol,Cholesterol
+nutrients,choline,Choline,Cholina
+nutrients,chromium,Chromium,Chrom
+nutrients,copper,Copper,Miedź
+nutrients,cysteine,Cysteine,Cysteina
+nutrients,cystine,Cystine,Cystyna
+nutrients,dietary_fiber,Dietary Fiber,Błonnik
+nutrients,dihomo_gamma_linolenic_acid,Dihomo Gamma Linolenic Acid,Kwas dihomo-gamma-linolenowy
+nutrients,docosahexaenoic_acid,Docosahexaenoic Acid,Kwas dokozaheksaenowy
+nutrients,docosapentaenoic_acid,Docosapentaenoic Acid,Kwas dokozapentaenowy
+nutrients,eicosapentaenoic_acid,Eicosapentaenoic Acid,Kwas eikozapentaenowy
+nutrients,eicosenoic_acid,Eicosenoic Acid,Kwas eikozenowy
+nutrients,erucic_acid,Erucic Acid,Kwas erukowy
+nutrients,ethyl_alcohol,Ethyl Alcohol,Alkohol etylowy
+nutrients,folate_dfe,Folate Dfe,Foliany (DFE)
+nutrients,folic_acid,Folic Acid,Kwas foliowy
+nutrients,gamma_linolenic_acid,Gamma Linolenic Acid,Kwas gamma-linolenowy
+nutrients,glutamic_acid,Glutamic Acid,Kwas glutaminowy
+nutrients,glycine,Glycine,Glicyna
+nutrients,histidine,Histidine,Histydyna
+nutrients,insoluble_fiber,Insoluble Fiber,Błonnik nierozpuszczalny
+nutrients,iodine,Iodine,Jod
+nutrients,iron,Iron,Żelazo
+nutrients,isoleucine,Isoleucine,Izoleucyna
+nutrients,lauric_acid,Lauric Acid,Kwas laurynowy
+nutrients,leucine,Leucine,Leucyna
+nutrients,linoleic_acid,Linoleic Acid,Kwas linolowy
+nutrients,linolenic_acid,Linolenic Acid,Kwas linolenowy
+nutrients,lysine,Lysine,Lizyna
+nutrients,magnesium,Magnesium,Magnez
+nutrients,manganese,Manganese,Mangan
+nutrients,methionine,Methionine,Metionina
+nutrients,molybdenum,Molybdenum,Molibden
+nutrients,monounsaturated_fats,Monounsaturated Fats,Kwasy tłuszczowe jednonienasycone
+nutrients,myristic_acid,Myristic Acid,Kwas mirystynowy
+nutrients,niacin,Niacin,Niacyna
+nutrients,oleic_acid,Oleic Acid,Kwas oleinowy
+nutrients,omega_3,Omega 3,Omega-3
+nutrients,omega_6,Omega 6,Omega-6
+nutrients,omega_9,Omega 9,Omega-9
+nutrients,other_carbohydrates,Other Carbohydrates,Pozostałe węglowodany
+nutrients,palmitic_acid,Palmitic Acid,Kwas palmitynowy
+nutrients,pantothenic_acid,Pantothenic Acid,Kwas pantotenowy
+nutrients,phenylalanine,Phenylalanine,Fenyloalanina
+nutrients,phosphorus,Phosphorus,Fosfor
+nutrients,polyunsaturated_fats,Polyunsaturated Fats,Kwasy tłuszczowe wielonienasycone
+nutrients,potassium,Potassium,Potas
+nutrients,proline,Proline,Prolina
+nutrients,protein,Protein,Białko
+nutrients,riboflavin,Riboflavin,Ryboflawina
+nutrients,saturated_fats,Saturated Fats,Kwasy tłuszczowe nasycone
+nutrients,selenium,Selenium,Selen
+nutrients,serine,Serine,Seryna
+nutrients,sodium,Sodium,Sód
+nutrients,soluble_fiber,Soluble Fiber,Błonnik rozpuszczalny
+nutrients,sorbitol,Sorbitol,Sorbitol
+nutrients,stearic_acid,Stearic Acid,Kwas stearynowy
+nutrients,sugar_alcohols,Sugar Alcohols,Alkohole cukrowe
+nutrients,taurine,Taurine,Tauryna
+nutrients,thiamin,Thiamin,Tiamina
+nutrients,threonine,Threonine,Treonina
+nutrients,total_fat,Total Fat,Tłuszcz
+nutrients,total_folate,Total Folate,Foliany ogółem
+nutrients,total_sugars,Total Sugars,Cukry
+nutrients,trans_fats,Trans Fats,Kwasy tłuszczowe trans
+nutrients,tryptophan,Tryptophan,Tryptofan
+nutrients,tyrosine,Tyrosine,Tyrozyna
+nutrients,undefined,Undefined,Nieokreślone
+nutrients,valine,Valine,Walina
+nutrients,vitamin_a,Vitamin A,Witamina A
+nutrients,vitamin_a_iu,Vitamin A Iu,Witamina A (IU)
+nutrients,vitamin_b12,Vitamin B12,Witamina B12
+nutrients,vitamin_b6,Vitamin B6,Witamina B6
+nutrients,vitamin_c,Vitamin C,Witamina C
+nutrients,vitamin_d,Vitamin D,Witamina D
+nutrients,vitamin_d3,Vitamin D3,Witamina D3
+nutrients,vitamin_d_iu,Vitamin D Iu,Witamina D (IU)
+nutrients,vitamin_e,Vitamin E,Witamina E
+nutrients,vitamin_e_alpha,Vitamin E Alpha,Witamina E (alfa-tokoferol)
+nutrients,vitamin_k,Vitamin K,Witamina K
+nutrients,water,Water,Woda
+nutrients,xylitol,Xylitol,Ksylitol
+nutrients,zinc,Zinc,Cynk
+shopping_categories,alcohol,Alcohol,Alkohole
+shopping_categories,baby_food,Baby Food & Formula,Żywność dla niemowląt
+shopping_categories,baking,Baking,Do pieczenia
+shopping_categories,beverages,Drinks,Napoje
+shopping_categories,bread_bakery,Bread & Bakery,Pieczywo
+shopping_categories,breakfast_spreads,"Cereals, Spreads & Honey","Płatki, dżemy i miód"
+shopping_categories,canned_jarred,Canned Goods & Soups,Konserwy i zupy
+shopping_categories,coffee_tea,"Coffee, Tea & Cocoa","Kawa, herbata i kakao"
+shopping_categories,dairy_eggs,Dairy & Eggs,Nabiał i jaja
+shopping_categories,deli_cold_cuts,Deli & Cold Cuts,Wędliny
+shopping_categories,fish_seafood,Fish & Seafood,Ryby i owoce morza
+shopping_categories,frozen,Frozen,Mrożonki
+shopping_categories,fruits_vegetables,Fruits & Vegetables,Owoce i warzywa
+shopping_categories,meat_poultry,Meat & Poultry,Mięso i drób
+shopping_categories,nuts_seeds_dried_fruit,"Nuts, Seeds & Dried Fruit","Orzechy, nasiona i bakalie"
+shopping_categories,oils_sauces_condiments,"Oils, Sauces & Condiments","Oleje, sosy i dodatki"
+shopping_categories,other,Other,Inne
+shopping_categories,pasta_rice_grains,"Pasta, Rice & Grains","Makarony, ryż i kasze"
+shopping_categories,plant_based,Plant-Based Alternatives,Zamienniki roślinne
+shopping_categories,ready_meals,Ready Meals & Deli,Dania gotowe i garmażerka
+shopping_categories,snacks,Salty Snacks,Przekąski słone
+shopping_categories,spices_seasonings,Spices & Seasonings,Przyprawy
+shopping_categories,supplements,Supplements & Sports Nutrition,Suplementy i odżywki
+shopping_categories,sweets,Sweets & Chocolate,Słodycze i czekolada

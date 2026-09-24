@@ -1,0 +1,5 @@
+food_type,foods,offered_in_search_by_default,note
+everyday,5299,yes,Generic foods; the default for a recipe ingredient.
+grocery,313442,no,"Branded products, all North-American, 96% of the catalogue; rarely what a recipe wants."
+prepared,3836,yes,Dishes; the default for a planned meal.
+restaurant,4182,no,"Chain menu items, all North-American."

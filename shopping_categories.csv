@@ -1,0 +1,25 @@
+shopping_category,store_position,name_en,name_pl
+fruits_vegetables,1,Fruits & Vegetables,Owoce i warzywa
+bread_bakery,2,Bread & Bakery,Pieczywo
+meat_poultry,3,Meat & Poultry,Mięso i drób
+deli_cold_cuts,4,Deli & Cold Cuts,Wędliny
+fish_seafood,5,Fish & Seafood,Ryby i owoce morza
+dairy_eggs,6,Dairy & Eggs,Nabiał i jaja
+plant_based,7,Plant-Based Alternatives,Zamienniki roślinne
+ready_meals,8,Ready Meals & Deli,Dania gotowe i garmażerka
+frozen,9,Frozen,Mrożonki
+pasta_rice_grains,10,"Pasta, Rice & Grains","Makarony, ryż i kasze"
+canned_jarred,11,Canned Goods & Soups,Konserwy i zupy
+oils_sauces_condiments,12,"Oils, Sauces & Condiments","Oleje, sosy i dodatki"
+spices_seasonings,13,Spices & Seasonings,Przyprawy
+baking,14,Baking,Do pieczenia
+breakfast_spreads,15,"Cereals, Spreads & Honey","Płatki, dżemy i miód"
+nuts_seeds_dried_fruit,16,"Nuts, Seeds & Dried Fruit","Orzechy, nasiona i bakalie"
+snacks,17,Salty Snacks,Przekąski słone
+sweets,18,Sweets & Chocolate,Słodycze i czekolada
+coffee_tea,19,"Coffee, Tea & Cocoa","Kawa, herbata i kakao"
+beverages,20,Drinks,Napoje
+alcohol,21,Alcohol,Alkohole
+baby_food,22,Baby Food & Formula,Żywność dla niemowląt
+supplements,23,Supplements & Sports Nutrition,Suplementy i odżywki
+other,24,Other,Inne
