@@ -6,16 +6,20 @@ This repository is the **file of alterations** for the copy of the
 
 Smakly is a meal planner. It shows nutrition figures from OpenNutrition, and to
 make them usable it adds things of its own: Polish names, a shop department per
-food, an icon key, a handful of data-quality notes and two dozen corrected
-units. Those additions make our copy a *Derivative Database*, and because the
-app uses it publicly, the licence obliges us to offer either the whole database
-or a file of every alteration. This is that file — or rather, ten of them, one
-per kind of alteration, each keyed by the food's own upstream id so anyone with
-the original dataset can apply them.
+food, an icon key, a handful of data-quality notes, two dozen corrected units
+and a few generic foods the dataset lacks. Those additions make our copy a
+*Derivative Database*, and because the app uses it publicly, the licence
+obliges us to offer either the whole database or a file of every alteration.
+This is that file — or rather, twelve of them, one per kind of alteration, each
+keyed by the food's own upstream id (or, for a food of our own, by our id) so
+anyone with the original dataset can apply them.
 
 Nothing here is a copy of the source data. The nutrition figures, the English
 names, the ingredients, the barcodes and the food types are OpenNutrition's and
 stay there; download them from OpenNutrition, then apply these files on top.
+The one exception is the foods we added ourselves, which have no upstream row to
+apply anything to and are published here whole; their figures come from
+[USDA FoodData Central](https://fdc.nal.usda.gov), which is in the public domain.
 
 ## Attribution and licence
 
@@ -68,7 +72,9 @@ would mean nothing to you.
 | [`food_icons.csv`](food_icons.csv) | 1,225 | `open_nutrition_id, icon_key`. Which of our 188 ingredient icons a food is drawn with. The key only — the artwork is ours and is not part of this database (see below). |
 | [`food_type_visibility.csv`](food_type_visibility.csv) | 4 | `food_type, foods, offered_in_search_by_default, note`. Which of the four upstream food types our search offers when the caller asks for no type in particular. `grocery` and `restaurant` — 97% of the catalogue, all North-American — are left out. No row is changed or removed by this: it is a condition in a query, recorded here because it is the honest answer to "what does your copy show?". |
 | [`removed_foods.csv`](removed_foods.csv) | 0 | `open_nutrition_id, action, merged_into_open_nutrition_id, reason`. Foods we deleted or merged into another. **Empty:** we have deleted and merged nothing. Every one of the 326,759 upstream foods is present in our database, which the export verifies against the dataset file rather than asserting. |
-| [`added_foods.csv`](added_foods.csv) | 0 | `smakly_food_id, name_en, food_type, calories_per_100, reference_unit, serving_amount`. Generic foods of our own, with no upstream counterpart. **Empty:** we have added none yet. When we do, they will appear here in full, as ODbL §4.6 b requires of additional Contents. |
+| [`added_foods.csv`](added_foods.csv) | 9 | `smakly_food_id, name_en, name_pl, alternate_names_pl, food_type, calories_per_100, reference_unit, serving_amount, shopping_category, icon_key, source, source_food_id, source_food_name, source_url`. Generic foods of our own, with no upstream counterpart: breadcrumbs, vegetable broth, balsamic vinegar, dry lasagna sheets, ladyfingers, raw beef short ribs, dry rice noodles, passata and arborio rice — everyday ingredients the dataset has only as North-American branded products. Keyed by our own id, since there is no upstream one. Every figure is taken unchanged from the USDA FoodData Central food named in `source_food_id` (SR Legacy), per 100 g — for the broth per 100 ml, taking its density as 1. |
+| [`added_food_nutrients.csv`](added_food_nutrients.csv) | 521 | `smakly_food_id, nutrient, amount_per_100`. Every nutrient amount of those foods, in the units and under the technical names of `dictionary_names_pl.csv` (`nutrients`): the FoodData Central values, mapped one to one. |
+| [`added_food_measures.csv`](added_food_measures.csv) | 23 | `smakly_food_id, measure_unit, ref_multiplier`. The measures those foods can be counted in and how many reference units (g or ml) each holds — FoodData Central's portion weights, plus the reference unit itself, a cup of broth as 240 ml and a tablespoon of breadcrumbs as a sixteenth of their cup. |
 
 ## Applying the changes
 
@@ -156,8 +162,13 @@ kluczowane identyfikatorem produktu z OpenNutrition (`fd_…`):
 - `food_icons.csv` — przypisanie ikony do produktu (1 225; same klucze, bez
   grafik, które są nasze),
 - `food_type_visibility.csv` — które typy produktów pokazuje wyszukiwarka,
-- `removed_foods.csv`, `added_foods.csv` — puste: nie usunęliśmy, nie scaliliśmy
-  ani nie dodaliśmy żadnego produktu.
+- `removed_foods.csv` — pusty: nie usunęliśmy ani nie scaliliśmy żadnego
+  produktu,
+- `added_foods.csv`, `added_food_nutrients.csv`, `added_food_measures.csv` —
+  9 produktów generycznych dodanych przez nas (bułka tarta, bulion warzywny,
+  ocet balsamiczny, makaron lasagne, biszkopty, żeberka wołowe, makaron ryżowy,
+  passata, ryż arborio), publikowanych w całości; wartości odżywcze z USDA
+  FoodData Central (domena publiczna).
 
 Wszystko na licencji **ODbL 1.0** (plik `LICENSE`). Nie publikujemy narzędzi,
 którymi zmiany powstały, grafik ikon ani pól technicznych naszego indeksu
