@@ -1,0 +1,34 @@
+smakly_food_id,position,source,source_food_id,reference,source_food_name,source_url
+01a198d3-1a5f-7ce8-92d8-2073958a0a23,1,"USDA Standard Reference, Legacy",174928,Food ID,"Bread, crumbs, dry, grated, plain",https://fdc.nal.usda.gov/food-details/174928/nutrients
+01a198d3-1a5f-7d07-b2b5-1ef52129f52f,1,"USDA Standard Reference, Legacy",171583,Food ID,"Soup, vegetable broth, ready to serve",https://fdc.nal.usda.gov/food-details/171583/nutrients
+01a198d3-1a5f-7d0e-bdbc-b5944f5c11d0,1,"USDA Standard Reference, Legacy",172241,Food ID,"Vinegar, balsamic",https://fdc.nal.usda.gov/food-details/172241/nutrients
+01a198d3-1a5f-7d13-be4e-e67962f049e2,1,"USDA Standard Reference, Legacy",169736,Food ID,"Pasta, dry, enriched",https://fdc.nal.usda.gov/food-details/169736/nutrients
+01a198d3-1a5f-7d17-8d2c-846bebc411ab,1,"USDA Standard Reference, Legacy",172821,Food ID,"Cookies, ladyfingers, without lemon juice and rind",https://fdc.nal.usda.gov/food-details/172821/nutrients
+01a198d3-1a5f-7d1b-8654-6e5735dfa242,1,"USDA Standard Reference, Legacy",169439,Food ID,"Beef, rib, shortribs, separable lean and fat, choice, raw",https://fdc.nal.usda.gov/food-details/169439/nutrients
+01a198d3-1a5f-7d1f-9618-b39cb923a315,1,"USDA Standard Reference, Legacy",169742,Food ID,"Rice noodles, dry",https://fdc.nal.usda.gov/food-details/169742/nutrients
+01a198d3-1a5f-7d23-a6b3-ca81d8d74154,1,"USDA Standard Reference, Legacy",170460,Food ID,"Tomato products, canned, puree, without salt added",https://fdc.nal.usda.gov/food-details/170460/nutrients
+01a198d3-1a5f-7d27-8f46-b868942fce60,1,"USDA Standard Reference, Legacy",168931,Food ID,"Rice, white, short-grain, raw, unenriched",https://fdc.nal.usda.gov/food-details/168931/nutrients
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,1,Open Food Facts,2720660003460,Barcode,"Krasnystaw, Ser Twarogowy Półtłusty",https://world.openfoodfacts.org/product/2720660003460
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,2,Open Food Facts,2807053007028,Barcode,"Pilos, Ser Twarogowy Półtłusty",https://world.openfoodfacts.org/product/2807053007028
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,3,Open Food Facts,2843655004362,Barcode,"OSM Rawicz, Ser Twarogowy Półtłusty",https://world.openfoodfacts.org/product/2843655004362
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,4,Open Food Facts,5900820025229,Barcode,"Łaciaty, Twaróg półtłusty",https://world.openfoodfacts.org/product/5900820025229
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,5,Open Food Facts,5902298008049,Barcode,Twaróg krajanka półtłusty,https://world.openfoodfacts.org/product/5902298008049
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,6,Open Food Facts,5903154000924,Barcode,"OSM w Śremie, Ser twarogowy półtłusty",https://world.openfoodfacts.org/product/5903154000924
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,7,Open Food Facts,5904467432433,Barcode,"Maluta, Twaróg półtłusty",https://world.openfoodfacts.org/product/5904467432433
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,8,Open Food Facts,5908235957791,Barcode,"Kanka, Twaróg półtłusty",https://world.openfoodfacts.org/product/5908235957791
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,9,Open Food Facts,5908235957814,Barcode,"Kanka, Twaróg półtłusty",https://world.openfoodfacts.org/product/5908235957814
+01a1adf8-42da-7d5d-8527-3433bf5d31a3,10,Open Food Facts,5930210003827,Barcode,"MLECZWART, SER TWAROGOWY PÓŁTŁUSTY-KLINEK",https://world.openfoodfacts.org/product/5930210003827
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,1,Open Food Facts,5900120071063,Barcode,"Delikate, Twaróg Klinek Chudy",https://world.openfoodfacts.org/product/5900120071063
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,2,Open Food Facts,5900120072251,Barcode,"Delikate, Twaróg chudy",https://world.openfoodfacts.org/product/5900120072251
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,3,Open Food Facts,5900120072589,Barcode,"Pilos, Twaróg chudy",https://world.openfoodfacts.org/product/5900120072589
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,4,Open Food Facts,5900820021962,Barcode,"Delikate, Twaróg Klinek (Chudy)",https://world.openfoodfacts.org/product/5900820021962
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,5,Open Food Facts,5902495001669,Barcode,Twaróg chudy,https://world.openfoodfacts.org/product/5902495001669
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,6,Open Food Facts,5903312001442,Barcode,"Sokołów, Twaróg chudy",https://world.openfoodfacts.org/product/5903312001442
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,7,Open Food Facts,5904215145066,Barcode,"Auchan, Ser Twaróg Chudy",https://world.openfoodfacts.org/product/5904215145066
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,8,Open Food Facts,5904215184119,Barcode,"Auchan, Twarog Chudy",https://world.openfoodfacts.org/product/5904215184119
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,9,Open Food Facts,5905784330174,Barcode,"Carrefour, Twaróg chudy",https://world.openfoodfacts.org/product/5905784330174
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,10,Open Food Facts,5907809285964,Barcode,"Delikante, Twarog klinek chudy",https://world.openfoodfacts.org/product/5907809285964
+01a1ae02-32c9-7474-9e44-be8bf89bb87d,11,Open Food Facts,5908235957784,Barcode,"Kanka, Twaróg chudy",https://world.openfoodfacts.org/product/5908235957784
+01a1ae02-32c9-74ac-8396-8ad9f074e455,1,Open Food Facts,5900120070059,Barcode,Twaróg tłusty,https://world.openfoodfacts.org/product/5900120070059
+01a1ae02-32c9-74ac-8396-8ad9f074e455,2,Open Food Facts,5901957000608,Barcode,"OSM Garwolin, Twaróg garwoliński tłusty",https://world.openfoodfacts.org/product/5901957000608
+01a1ae02-32c9-74ac-8396-8ad9f074e455,3,Open Food Facts,5904730391979,Barcode,Twaróg tłusty kanka,https://world.openfoodfacts.org/product/5904730391979
