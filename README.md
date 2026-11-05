@@ -72,9 +72,9 @@ would mean nothing to you.
 | [`food_icons.csv`](food_icons.csv) | 1,225 | `open_nutrition_id, icon_key`. Which of our 188 ingredient icons a food is drawn with. The key only — the artwork is ours and is not part of this database (see below). |
 | [`food_type_visibility.csv`](food_type_visibility.csv) | 4 | `food_type, foods, offered_in_search_by_default, note`. Which of the four upstream food types our search offers when the caller asks for no type in particular. `grocery` and `restaurant` — 97% of the catalogue, all North-American — are left out. No row is changed or removed by this: it is a condition in a query, recorded here because it is the honest answer to "what does your copy show?". |
 | [`removed_foods.csv`](removed_foods.csv) | 0 | `open_nutrition_id, action, merged_into_open_nutrition_id, reason`. Foods we deleted or merged into another. **Empty:** we have deleted and merged nothing. Every one of the 326,759 upstream foods is present in our database, which the export verifies against the dataset file rather than asserting. |
-| [`added_foods.csv`](added_foods.csv) | 9 | `smakly_food_id, name_en, name_pl, alternate_names_pl, food_type, calories_per_100, reference_unit, serving_amount, shopping_category, icon_key, source, source_food_id, source_food_name, source_url`. Generic foods of our own, with no upstream counterpart: breadcrumbs, vegetable broth, balsamic vinegar, dry lasagna sheets, ladyfingers, raw beef short ribs, dry rice noodles, passata and arborio rice — everyday ingredients the dataset has only as North-American branded products. Keyed by our own id, since there is no upstream one. Every figure is taken unchanged from the USDA FoodData Central food named in `source_food_id` (SR Legacy), per 100 g — for the broth per 100 ml, taking its density as 1. |
-| [`added_food_nutrients.csv`](added_food_nutrients.csv) | 521 | `smakly_food_id, nutrient, amount_per_100`. Every nutrient amount of those foods, in the units and under the technical names of `dictionary_names_pl.csv` (`nutrients`): the FoodData Central values, mapped one to one. |
-| [`added_food_measures.csv`](added_food_measures.csv) | 23 | `smakly_food_id, measure_unit, ref_multiplier`. The measures those foods can be counted in and how many reference units (g or ml) each holds — FoodData Central's portion weights, plus the reference unit itself, a cup of broth as 240 ml and a tablespoon of breadcrumbs as a sixteenth of their cup. |
+| [`added_foods.csv`](added_foods.csv) | 10 | `smakly_food_id, name_en, name_pl, alternate_names_pl, food_type, calories_per_100, reference_unit, serving_amount, shopping_category, icon_key, source, source_food_id, source_food_name, source_url`. Generic foods of our own, with no upstream counterpart: breadcrumbs, vegetable broth, balsamic vinegar, dry lasagna sheets, ladyfingers, raw beef short ribs, dry rice noodles, passata, arborio rice and twaróg — everyday ingredients the dataset has only as North-American branded products. Keyed by our own id, since there is no upstream one. Every figure is taken unchanged from the USDA FoodData Central food named in `source_food_id` (SR Legacy; FNDDS for twaróg), per 100 g — for the broth per 100 ml, taking its density as 1. |
+| [`added_food_nutrients.csv`](added_food_nutrients.csv) | 567 | `smakly_food_id, nutrient, amount_per_100`. Every nutrient amount of those foods, in the units and under the technical names of `dictionary_names_pl.csv` (`nutrients`): the FoodData Central values, mapped one to one. |
+| [`added_food_measures.csv`](added_food_measures.csv) | 26 | `smakly_food_id, measure_unit, ref_multiplier`. The measures those foods can be counted in and how many reference units (g or ml) each holds — FoodData Central's portion weights, plus the reference unit itself, a cup of broth as 240 ml and a tablespoon of breadcrumbs as a sixteenth of their cup. |
 
 ## Applying the changes
 
@@ -165,9 +165,9 @@ kluczowane identyfikatorem produktu z OpenNutrition (`fd_…`):
 - `removed_foods.csv` — pusty: nie usunęliśmy ani nie scaliliśmy żadnego
   produktu,
 - `added_foods.csv`, `added_food_nutrients.csv`, `added_food_measures.csv` —
-  9 produktów generycznych dodanych przez nas (bułka tarta, bulion warzywny,
+  10 produktów generycznych dodanych przez nas (bułka tarta, bulion warzywny,
   ocet balsamiczny, makaron lasagne, biszkopty, żeberka wołowe, makaron ryżowy,
-  passata, ryż arborio), publikowanych w całości; wartości odżywcze z USDA
+  passata, ryż arborio, twaróg), publikowanych w całości; wartości odżywcze z USDA
   FoodData Central (domena publiczna).
 
 Wszystko na licencji **ODbL 1.0** (plik `LICENSE`). Nie publikujemy narzędzi,
